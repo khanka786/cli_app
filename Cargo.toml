@@ -1,0 +1,10 @@
+[package]
+name = "cli_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.1"
+chrono = "0.4"  
+zip = "0.6"
+walkdir = "2.3"
