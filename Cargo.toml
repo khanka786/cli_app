@@ -1,7 +1,12 @@
 [package]
 name = "cli_app"
 version = "0.1.0"
+authors = ["Kashan Khan"]
 edition = "2021"
+description = "A command-line utility for various file operations."
+license = "MIT"
+homepage = "https://github.com/yourusername/cli_app"
+repository = "https://github.com/yourusername/cli_app"
 
 [dependencies]
 clap = "4.1"
