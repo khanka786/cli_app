@@ -1,6 +1,6 @@
 use clap::{Arg, Command};
 use std::process;
-use cli_app::{make_directory, make_file, echo, list_directory, remove, view_file, 
+use kashan786_cli_app::{make_directory, make_file, echo, list_directory, remove, view_file, 
     match_pattern, remove_directory, clear_terminal, copy_file, directory_path, date, zip_directory, rename};
 
 fn main() {
